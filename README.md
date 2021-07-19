@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @JeffreyLauDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Some Good projects to look at:
 
-<!---
-JeffreyLauDev/JeffreyLauDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Full-stack Javascript (Reactjs, Nodejs) Development Projects
+[Crimify](https://github.com/JeffreyLauDev/Crimify)
+[Geo Go](https://github.com/JeffreyLauDev/GeoGo)
+[Fullstack Javascript Starter](https://github.com/JeffreyLauDev/fullstack-starter-no-database)
+
+
+#Reactjs Project
+[Calculator](https://github.com/JeffreyLauDev/material-calculator)
+[Geo Go](https://github.com/JeffreyLauDev/GeoGo)
+
+#Geographical Related Project
+[Crimify](https://github.com/JeffreyLauDev/Crimify)
+[Geo Go](https://github.com/JeffreyLauDev/GeoGo)
+
+#Geographical Related Project
+[EDM Starter](https://github.com/JeffreyLauDev/EDM-starter)
+
+#Others
+[Django web-project](https://github.com/JeffreyLauDev/MusicSchool)
+[EDM Starter](https://github.com/JeffreyLauDev/EDM-starter)
+[Chrome Extension Development Starter](https://github.com/JeffreyLauDev/Chrome-extension-starter)
